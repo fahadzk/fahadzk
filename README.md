@@ -31,19 +31,19 @@ A growing collection of small, focused projects that explore practical developer
 
 ### Languages
 
-Java 路 Python 路 TypeScript 路 JavaScript 路 SQL 路 HTML 路 CSS
+Java · Python · TypeScript · JavaScript · SQL · HTML · CSS
 
 ### AI and data
 
-RAG 路 GraphRAG 路 Local LLMs 路 Ollama 路 llama.cpp 路 Embeddings 路 Semantic Search 路 Hybrid Retrieval 路 Chroma 路 Neo4j 路 PostgreSQL 路 SQLite 路 FTS5
+RAG · GraphRAG · Local LLMs · Ollama · llama.cpp · Embeddings · Semantic Search · Hybrid Retrieval · Chroma · Neo4j · PostgreSQL · SQLite · FTS5
 
 ### Cloud and platform
 
-AWS 路 Docker 路 Kubernetes 路 EKS 路 Jenkins 路 Kafka 路 REST APIs 路 OAuth/OIDC 路 Keycloak 路 CI/CD
+AWS · Docker · Kubernetes · EKS · Jenkins · Kafka · REST APIs · OAuth/OIDC · Keycloak · CI/CD
 
 ### Frameworks and tools
 
-Quarkus 路 JPA 路 React 路 FastAPI 路 Electron 路 Vite 路 Git 路 Linux 路 Windows
+Quarkus · JPA · React · FastAPI · Electron · Vite · Git · Linux · Windows
 
 ## Professional background
 
